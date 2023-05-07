@@ -1,0 +1,6 @@
+{
+  "singleQuote": true,
+  "htmlWhitespaceSensitivity": "css",
+  "endOfLine": "auto",
+  "printWidth": 120
+}
