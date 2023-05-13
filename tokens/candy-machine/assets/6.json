@@ -1,0 +1,28 @@
+{
+    "name": "Cool Cat #7",
+    "symbol": "CAT",
+    "description": "this cat is amazing",
+    "image": "6.png",
+    "attributes": [
+        {
+            "trait_type": "chair",
+            "value": "brown"
+        },
+        {
+            "trait_type": "accessory",
+            "value": "laptop"
+        },
+        {
+            "trait_type": "accessory",
+            "value": "whiteboard"
+        }
+    ],
+    "properties": {
+        "files": [
+            {
+                "uri": "6.png",
+                "type": "image/png"
+            }
+        ]
+    }
+}
